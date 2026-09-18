@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🛰️ SDE at **I2V Systems**, working on real-time AI analytics dashboards, ANPR/e-challan enforcement, and large-scale camera analytics deployments.
+- 🛰️ SDE at **I2V Systems**, working on real-time AI analytics dashboards, FRS, ANPR/e-challan enforcement, and large-scale camera analytics deployments.
 - 🏗️ I like designing **clean, layered architectures** — CQRS, event-driven pipelines, and systems that stay fast and fault-tolerant under load.
 - ⚡ Currently deep into **distributed messaging** (RabbitMQ, SignalR) and **PostgreSQL** at 30M+ record scale.
 - 🧩 Also into **competitive programming** and building side projects that are production-grade, not just demos.

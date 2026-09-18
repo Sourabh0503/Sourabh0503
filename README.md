@@ -80,13 +80,4 @@ A production multi-tenant HR platform built on a modular monolith with strict te
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sourabh0503&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh0503&layout=compact&theme=default&hide_border=true&langs_count=8">
-</p>
-
----
-
 <p align="center"><i>Open to connecting on backend architecture, distributed systems, and full-stack .NET + Angular work.</i></p>
